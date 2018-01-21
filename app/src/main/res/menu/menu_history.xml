@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/add_new_user"
+    android:title="Add New User"
+    android:orderInCategory="101"
+    />
+
+<item android:id="@+id/new_measure"
+    android:title="New Measure"
+    android:orderInCategory="100"
+    ></item>
+
+<item android:id="@+id/delete_user"
+    android:title="Delete User"
+    android:orderInCategory="102"
+    ></item>
+
+
+
+</menu>
